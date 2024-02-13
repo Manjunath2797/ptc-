@@ -1,4 +1,4 @@
-package com.tyss.practice2;
+package com.tyss.practice;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
