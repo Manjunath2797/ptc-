@@ -5,10 +5,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class MyTest1test {
+public class MyTest {
 	public WebDriver driver;
 	@Test
-	public void myTest1test()
+	public void myTest()
 	{
 		String BROWSER = System.getProperty("browser");
 		String URL = System.getProperty("url");
